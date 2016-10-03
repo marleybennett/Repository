@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.1_738f14aa0a20ef262bcb9118dbbc986695dfff8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.1_fcef258fd22c23da30625b02e5551d7f0d3beee4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.1_9a031386f38802214795fe3c8fdc0ae1ee8b14ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.1_fd020b32eb1f29d48301b450d47a989c7ac923bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.1_d8952fb72de4b364827f9d29cb6c0dcb4afed3dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.1_5c683e9a33ec21de789872c33311455f93dbd907/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.1_0bb93934e8444c8457703e628fe0ec7b60edcb67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6610e631f1b249ee3643133b126125a7b1c68220">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b12f65abc5d599c3eca1a3ce6d0295cad7c47249/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_81aed73a46a875e50743d7720c45547f02aa7302/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.1_978f5d546b579798fac80e7b1e744989bf7acb29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4891b0423e7219ffe3111680b1f65dc4d398c902/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.1_ba7ba9622b1d637b92687ff99fbd7bab74a0601c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.1_6e572d189b494e78e9ec69092df52d9228fb8c13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.1_bd4c392111f914c916977246a57310bd0d56a687/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.1_a04c71e5fcef210efd71589dbd5e0ff6810b559f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_639d87a4265eb68905a86e780a435930f97994ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.1_010bd6706c2418a99d41edb5a24dc50bbfcef4cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_34923b66aa3a7e93fa141e0396112ac440f61056/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_763bd525cc40cef153e226f2a1f80ff64574d486/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_3a8642f57fc267c338e618f5ed959594c5a88405/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.1_ddf8e5205b3d7cb3eaca949f2978ccefa6fedb81/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.1_dcf23bb0adc37cc0d68fc68b839c384a9105ac34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.1_4bd75d8b0ee61a395d5fff57d51b77df7313178d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.1_08eff3219f6277f0611ff8c4b7d072dc1c21d872/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_43be80c56b3aa24eb236411562dc61b68e7933bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_f47f042fc724a3e5d1caf91852281b30a1d095ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_c8936bb1548935c04cde13d0120aaf5d30e90b1b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5facb7074284ad42fc8d2740a22d667427f982a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.1_83819e3344222b8164444a152f9fc85827c31418/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_0de1a5674c5a31a4c98bf69b526e88078a70eba7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_737e8c599ee4fe3632e6858e79597f9f66dc5d9c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.1_6677bd31aedcb748b024f2d25f55e006ebde532c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_47fc8cc6076d10f18ae0d3f071d01e966be9dbe3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.1_47cf1f78345c2a17bb7df36b001e4f71b91f61ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.1_05f97fb8bd9ea7219b6bbd31636224921df12936/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.1_93cc3b40677712a80a3165a8695c43717034b3c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_f8588d83cbdd9aacb0a82b6f90c0c321865e8197/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4727d77cf849427b2be0c1cc1aa7b7d64439bf7d">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e443c8b0a88d62cdfbf56ba59d65f594a8862e1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.1_b7b2f1a16fb83c0101f81307dd815fe05e210bfc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.1_3d797cb049bd521268ebc4ae1a6495aeddf8e2e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.1_a133e556ad67482586326ae9733b7f3eb5faed7a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.1_6bf6499f170e25bf6e51d7a37b58daa26deb698a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.1_8f006a964036ed6aa88eff0075c2026149a4e692/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.1_0df504f95921a86bd230042d0bd8155c0aaa1f60/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_1ec9f3e08323d77c8a40c1e195f80a809a6ac2db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_5d0e8b3674b957cb837abca5a2aea6299d27b057/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.1_8433374ba458fcfdb30f609909edbfc91bd61c6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.1_ac4f702003607a451b3459d534b6a0768466ab43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.1_ca24df82c7a654d2b670182e713a65e6c7919c33/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.1_ed9808fb5ecf18d9dab6403be17993769138adcf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c248db2da4b18439d2d70cb06baa91eb7d239370/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_bdae5454f0c23ea1ec7b541d67128ecef612c86f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.1_0c1ae94290316a649ffbc04b9aee9e822553037c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_b994cf11117b0380ede6edc301e632fc810924a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.1_7570d0efe4e53327fd212b8bb8e1be1c3af5802c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_ec8d99cc922ab8a76f53e36fc3788741d5fc8e36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.1_5be71b12036b73da6d6f56071a7abe56ae2ec1d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.1_29b1799f83e905eca526644443856501d958f248/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.1_ca0fb0d9276911785acaa04e17c3479532db68e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="/Users/marleybennett/Desktop/fooDonate-app-final copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.1_347cd7a440bff9c377ac9cc5d5a4badcb5bb9dc2/classes.dex" />
+    </item>
+
+</items>
